@@ -1,16 +1,13 @@
-## Hi there 👋
+# olá eu sou o samuel !🏍️ 🐯.
 
-<!--
-**SamuelPires02/SamuelPires02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  - Estudante do primeiro ano B ensino medio
+  - Colegio professores edevaldo e maria janete
+  - Turvo - PR
 
-Here are some ideas to get you started:
+  ##Sobre Mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  - Aprendendo HTML, CSS e javascript
+  - objetivo ser um aluno melhor
+  - Hoby Jogar freefrire e futebou
+
+![](https://cdn.pixabay.com/animation/2023/01/17/08/12/08-12-59-862_512.gif)
